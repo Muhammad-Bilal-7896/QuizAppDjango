@@ -25,7 +25,7 @@ This repository contains a simple question-answer Django admin app that uses SQL
 2. Create and activate a virtual environment:
 
    ```bash
-   python3 -m venv env
+   python3 -m django-env env
    source env/bin/activate
    ```
 
